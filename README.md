@@ -1,12 +1,38 @@
-# React + Vite
+# 🎌 Anime-3D
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A visually dynamic and interactive 3D-style website built with **React**, **TailwindCSS**, **GSAP**, and **clip-path** effects. This project showcases smooth animations, responsive design, and creative layout transitions inspired by anime visuals and 3D aesthetics.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Preview
 
-## Expanding the ESLint configuration
+🌐 [Click here to view the website](https://jeevanvishnu.github.io/Anime-3D/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Tech Stack
+
+- **React** – Component-based UI library
+- **Tailwind CSS** – Utility-first CSS framework for rapid UI development
+- **GSAP** – Animation library for smooth and complex transitions
+- **clip-path** – CSS feature used to create custom shapes and transitions
+
+---
+
+## 🎯 Features
+
+- ✨ Smooth entrance and scroll animations using GSAP
+- 📱 Fully responsive layout using TailwindCSS
+- 🎭 Custom shapes and transitions with CSS `clip-path`
+- ⚡ Optimized build with Vite
+- 🌐 Deployed on GitHub Pages
+
+---
+
+## 🧰 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/jeevanvishnu/Anime-3D.git
+   cd Anime-3D
+
