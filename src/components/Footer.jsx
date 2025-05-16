@@ -1,8 +1,8 @@
 import { FaLinkedin , FaGithub } from "react-icons/fa";
 
 const socialLinks = [
-  { href: "https://github.com/jeevanvishnu", icon: <FaLinkedin  /> },
-  { href: "https://www.linkedin.com/in/jeevan-vishnu/", icon: <FaGithub /> },
+  { href: "https://github.com/jeevanvishnu", icon: < FaGithub/> },
+  { href: "https://www.linkedin.com/in/jeevan-vishnu/", icon: <FaLinkedin /> },
  
 ];
 
